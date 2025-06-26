@@ -1,0 +1,122 @@
+div.one {
+    width: 400px;
+    height: 1090px;
+    float: right;
+    border: 1px solid rgb(196, 190, 190);
+    background-color: whitesmoke;
+}
+
+img.img1 {
+    width: 270px;
+    height: 225px;
+    margin-left: 66px;
+}
+
+h2.th21 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr.n {
+    background-color: black;
+}
+
+h3 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;;
+}
+
+div.text {
+    background-color: rgb(232, 232, 232);
+    width: 280px;
+    margin-left: 60px;
+}
+
+h4.tags1 {
+    text-align: center;
+}
+
+div.tags2 {
+    margin-left: 10px;
+    float: left ;
+    background-color: whitesmoke;
+}
+
+div.text1 {
+    float: right;
+}
+
+div.two {
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    float: left;
+    margin-right: 10px;
+}
+
+img.img2 {
+    width: 199px;
+    height: 199px;
+}
+
+div.three {
+    width: 211px;
+    height: 211px;
+    border: 1px solid gray;
+    float: right;
+    margin-left: 10px;
+    margin-right: 8px;
+}
+
+img.img3 {
+    width: 210px;
+    height: 210px;
+    float: right;
+}
+
+th.tb1 {
+    font-size: medium;
+}
+
+th {
+    width: 200px;
+}
+
+th.bt1 {
+    float: left;
+    font-size: small;
+}
+
+th.tb2 {
+    font-size: medium;
+}
+
+th.sdf {
+    font-size: small;
+    float: right;
+    text-align: end;
+}
+
+table.table1 {
+    width: 160px;
+}
+
+th.bt2 {
+    font-size: small;
+    float: left;
+    margin-top: 15px;
+}
+
+th.bt3 {
+    float: left;
+    font-size: small;
+    margin-top: 10px;
+}
+
+th.tb3 {
+    font-size: medium;
+    text-align: start;
+}
